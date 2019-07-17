@@ -1,0 +1,6 @@
+D:\projetos\wcf\analise-comportamento-static\static-behavior\bin\static-behavior.dll.config
+D:\projetos\wcf\analise-comportamento-static\static-behavior\bin\static-behavior.dll
+D:\projetos\wcf\analise-comportamento-static\static-behavior\bin\static-behavior.pdb
+D:\projetos\wcf\analise-comportamento-static\static-behavior\obj\Debug\static-behavior.csproj.CoreCompileInputs.cache
+D:\projetos\wcf\analise-comportamento-static\static-behavior\obj\Debug\static-behavior.dll
+D:\projetos\wcf\analise-comportamento-static\static-behavior\obj\Debug\static-behavior.pdb
